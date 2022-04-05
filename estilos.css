@@ -1,0 +1,94 @@
+.container{
+    background-color:indianred;
+}
+
+nav {
+    background-color: black;
+    font-size: 18px;
+}
+.row h1{
+    margin: 20px 0;
+}
+.titulos{
+   margin: 0 0 23px 0;
+    text-align: center;
+}
+#card3{
+    background-color: salmon;
+    border: solid .5px black;
+    border-radius: 5%;
+}
+#card2{
+    margin: 5px 40px;
+    background-color: salmon;
+    border: solid .5px black;
+    border-radius: 5%;
+}
+#card1{
+    margin-left: 9%;
+    background-color: salmon;
+    border: solid .5px black;
+    border-radius: 5%;
+}
+.card-text{
+    
+    font-size: 16x;
+} 
+
+#filacartas img{
+    margin-top: 20px;
+    border-radius: 5%;
+}
+
+#acordeon button{
+    background-color: transparent;
+    font-size: 20px;
+    color: white;
+}
+
+#tacordeon1,#tacordeon2,#tacordeon3,#tacordeon4{
+    background-color: black;
+    margin: 10px 0;
+}
+#acordeon p{
+    color: white;
+    font-size: 15px;
+}
+#btn{
+    margin: 40px 40px auto 0;
+    padding: 20px;
+   
+}
+
+#info{
+    text-align: center;
+}
+
+#contacto{
+    background-color:salmon;
+    color: black;
+    border: solid 5px black;
+}
+
+.img1{
+    background-color: black;
+   float: left;
+}
+
+.img2{
+ 
+    float:left;
+    margin-left: 24%;
+    margin-right: auto;
+}
+
+.img3{
+    background-color:white;
+    padding: 0%;
+    margin: 0;
+    float: right;
+}
+
+#info1{
+    margin-top: 200px;
+}
